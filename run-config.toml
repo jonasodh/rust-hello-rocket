@@ -1,0 +1,5 @@
+# cargo make watch
+[tasks.watch]
+command = "cargo"
+args = ["run"]
+watch = true
